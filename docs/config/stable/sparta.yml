@@ -12,7 +12,7 @@ koffer:
         - name: "MIRROR"
           value: "true"
         - name: "VERSION"
-          value: "latest-4.7"
+          value: "latest-4.6"
         - name: "PROVIDER"
           value: "aws"
         - name: "RHCOS_AWS"
